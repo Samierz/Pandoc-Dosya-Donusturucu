@@ -64,6 +64,18 @@ Uygulamayı başlatmak için:
 - ✅ İşlem sonunda kullanıcı seçenekleri:
   - Ana menüye dön
   - Uygulamayı kapat
+ 
+  ![Dosya Seçme Ekranı](screenshots/1.png)
+
+  *Dosya Seçme Ekranı*
+
+  ![Dosya Dönüştürme Ekranı](screenshots/2.png)
+
+  *Dosya Dönüştürme Ekranı*
+  
+  ![Çıkış Ekranı](screenshots/3.png)
+
+  *Çıkış Ekranı*
 
 ## 💻 TUI Modu (Whiptail)
 
@@ -71,6 +83,24 @@ Uygulamayı başlatmak için:
 - ✅ PDF ve diğer dosyalar için farklı format seçenekleri
 - ✅ Hatalı giriş kontrolleri
 - ✅ Dönüştürme sonrası kullanıcı seçimine bağlı akış
+
+
+  ![Giriş Ekranı](screenshots/tui4.png)
+
+  *Giriş Ekranı*
+
+  ![Format Seçme Ekranı](screenshots/tui5.png)
+
+  *Format Seçme Ekranı*
+
+  ![Dosya Oluşturma Ekranı](screenshots/tui6.png)
+
+  *Dosya Oluşturma Ekranı*
+
+  ![Çıkış Ekranı](screenshots/tui7.png)
+
+  *Çıkış Ekranı*
+
 
 ## 🔁 Desteklenen Formatlar
 
