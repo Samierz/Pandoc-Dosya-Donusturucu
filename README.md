@@ -131,4 +131,9 @@ Uygulamayı başlatmak için:
 - Kullanıcı deneyimine (UX) önem veren bir terminal/GUI uygulaması geliştirmek
 - Pandoc'un pratik kullanımını göstermek
 
+
+  [Projenin demo videosunu izlemek için tıklayabilirsiniz](https://www.youtube.com/watch?v=P_oEDRts_JI)
+
+  
+
 ⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!
