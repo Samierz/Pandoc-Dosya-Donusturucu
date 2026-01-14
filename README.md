@@ -102,6 +102,9 @@ Uygulamayı başlatmak için:
   *Çıkış Ekranı*
 
 
+    [Projenin demo videosunu izlemek için tıklayabilirsiniz](https://www.youtube.com/watch?v=P_oEDRts_JI)
+
+
 ## 🔁 Desteklenen Formatlar
 
 | Format | Uzantı | Notlar |
@@ -132,7 +135,8 @@ Uygulamayı başlatmak için:
 - Pandoc'un pratik kullanımını göstermek
 
 
-  [Projenin demo videosunu izlemek için tıklayabilirsiniz](https://www.youtube.com/watch?v=P_oEDRts_JI)
+
+
 
   
 
